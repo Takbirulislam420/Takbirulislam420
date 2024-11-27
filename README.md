@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hi there 👋, my name is Takbirul islam.
+#### A full stack Web and Flutter Developer
+![A full stack Web and Flutter Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+
+Skills: HTML / CSS / JS /  BOOTSTRAP / PHP / MYSQL/  LARAVEL / VUE JS / FLUTTER /
 
 
-**Takbirulislam420/Takbirulislam420** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Takbirulislam420)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Takbirulislam420&show_icons=true)  
+

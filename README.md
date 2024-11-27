@@ -1,7 +1,5 @@
 ### Hi there 👋, my name is Takbirul islam.
 #### A full stack Web and Flutter Developer
-![A full stack Web and Flutter Developer]()
-
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
 Skills: HTML / CSS / JS /  BOOTSTRAP / PHP / MYSQL/  LARAVEL / VUE JS / FLUTTER /

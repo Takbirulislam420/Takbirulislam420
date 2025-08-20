@@ -1,4 +1,5 @@
 👋 Hi, I’m Md. Takbirul Islam
+
 💻 Junior Mobile App Developer | Flutter & Dart Enthusiast
 
 🚀 I build cross-platform mobile applications using Flutter.
@@ -10,6 +11,7 @@ including:
 
 
 🔗 Linked Projects: Available here in my repositories
+
 🔗 Play Store Profile: Takbirul Islam on Google Play
 
 ⚡ Skills: Flutter · Dart · GetX · Firebase · REST API Integration · Git/GitHub
